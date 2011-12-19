@@ -1,336 +1,0 @@
-TNavigationbar
-v7
-r0
-t346000158.560012
-cCheck dependencies
-cProcessInfoPlistFile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Info.plist Navigationbar-Info.plist
-cCompileXIB /Bing/CodePark/入门开发/Navigationbar/MainWindow.xib
-cCompileXIB /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.xib
-cCompileXIB /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.xib
-cProcessPCH /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch.gch Navigationbar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/main.o /Bing/CodePark/入门开发/Navigationbar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/NavigationbarAppDelegate.o /Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityViewController.o /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityDetailViewController.o /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/TitleView.o /Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar normal i386
-cGenerateDSYMFile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app.dSYM /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar
-cTouch /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.h
-c000000004EEF3B2D0000000000000178
-t1324301101
-s376
-i<UIKit/UIKit.h>
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m
-c000000004EEF3FDC0000000000000C54
-t1324302300
-s3156
-i"NavigationbarAppDelegate.h"
-i"cityViewController.h"
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.h
-c000000004EEF43BF00000000000000C9
-t1324303295
-s201
-i<UIKit/UIKit.h>
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m
-c000000004EEF45960000000000000334
-t1324303766
-s820
-i"TitleView.h"
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.h
-c000000004EEF3A9B00000000000000F1
-t1324300955
-s241
-i<UIKit/UIKit.h>
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m
-c000000004EEF416400000000000006CA
-t1324302692
-s1738
-i"cityDetailViewController.h"
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.xib
-c000000004EEF3CEF000000000000431C
-t1324301551
-s17180
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.h
-c000000004EEF3A220000000000000104
-t1324300834
-s260
-i<UIKit/UIKit.h>
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m
-c000000004EEF539D0000000000000C99
-t1324307357
-s3225
-i"cityViewController.h"
-i"cityDetailViewController.h"
-i"TitleView.h"
-
-N/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.xib
-c000000004EEF3E2100000000000048F3
-t1324301857
-s18675
-
-N/Bing/CodePark/入门开发/Navigationbar/MainWindow.xib
-c000000004EEF39680000000000002126
-t1324300648
-s8486
-
-N/Bing/CodePark/入门开发/Navigationbar/Navigationbar_Prefix.pch
-c000000004EEF396800000000000000C3
-t1324300648
-s195
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app
-t1324307358
-s272
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app.dSYM
-t1324307358
-s102
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Info.plist
-t1324300832
-s615
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/MainWindow.nib
-t1324300832
-s990
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar
-t1324307358
-s24468
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/PkgInfo
-t1324300832
-s8
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/cityDetailViewController.nib
-t1324301654
-s1247
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/cityViewController.nib
-t1324302301
-s1428
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/Navigationbar.LinkFileList
-c000000004EEF43BE00000000000002E8
-t1324303294
-s744
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/NavigationbarAppDelegate.o
-t1324302301
-s54084
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/TitleView.o
-t1324303771
-s39080
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityDetailViewController.o
-t1324302793
-s40536
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityViewController.o
-t1324307358
-s45932
-
-N/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/main.o
-t1324300833
-s6308
-
-N/Bing/CodePark/入门开发/Navigationbar/main.m
-c000000004EEF39680000000000000166
-t1324300648
-s358
-i<UIKit/UIKit.h>
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch.gch
-t1324300833
-s15453392
-
-NNavigationbar-Info.plist
-c000000004EEF3968000000000000038D
-t1324300648
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies346000158#346000158#0(0"0(0#1#0"8638746560#0"0#
-
-CCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/NavigationbarAppDelegate.o /Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s345995101.323703
-e345995101.506817
-r1
-xCompileC
-xbuild/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/NavigationbarAppDelegate.o
-x/Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m345995101#345995101#0(0"0(0#0#76"/Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m8621580064#2115"    cd /Bing/CodePark/入门开发/Navigationbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-generated-files.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-own-target-headers.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-all-target-headers.hmap -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-project-headers.hmap -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -I/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/include -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources/i386 -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources -include /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch -c /Bing/CodePark/入门开发/Navigationbar/Classes/NavigationbarAppDelegate.m -o /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/NavigationbarAppDelegate.o0#
-
-CCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/TitleView.o /Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s345996571.243269
-e345996571.308793
-r1
-xCompileC
-xbuild/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/TitleView.o
-x/Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m345996571#345996571#0(0"0(0#0#61"/Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m8634843680#2085"    cd /Bing/CodePark/入门开发/Navigationbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-generated-files.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-own-target-headers.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-all-target-headers.hmap -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-project-headers.hmap -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -I/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/include -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources/i386 -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources -include /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch -c /Bing/CodePark/入门开发/Navigationbar/Classes/TitleView.m -o /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/TitleView.o0#
-
-CCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityDetailViewController.o /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s345995593.824804
-e345995593.968782
-r1
-xCompileC
-xbuild/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityDetailViewController.o
-x/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m345995593#345995593#0(0"0(0#0#76"/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m8634880800#2115"    cd /Bing/CodePark/入门开发/Navigationbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-generated-files.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-own-target-headers.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-all-target-headers.hmap -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-project-headers.hmap -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -I/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/include -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources/i386 -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources -include /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch -c /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.m -o /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityDetailViewController.o0#
-
-CCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityViewController.o /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s346000158.366362
-e346000158.509857
-r1
-xCompileC
-xbuild/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityViewController.o
-x/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@78"Compile /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m346000158#346000158#0(0"0(0#0#70"/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m8632797344#2103"    cd /Bing/CodePark/入门开发/Navigationbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-generated-files.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-own-target-headers.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-all-target-headers.hmap -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-project-headers.hmap -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -I/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/include -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources/i386 -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources -include /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch -c /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.m -o /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/cityViewController.o0#
-
-CCompileC build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/main.o /Bing/CodePark/入门开发/Navigationbar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s345993633.601550
-e345993633.762360
-r1
-xCompileC
-xbuild/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/main.o
-x/Bing/CodePark/入门开发/Navigationbar/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@56"Compile /Bing/CodePark/入门开发/Navigationbar/main.m345993633#345993633#0(0"0(0#0#48"/Bing/CodePark/入门开发/Navigationbar/main.m8605205088#2067"    cd /Bing/CodePark/入门开发/Navigationbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-generated-files.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-own-target-headers.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-all-target-headers.hmap -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-project-headers.hmap -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -I/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/include -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources/i386 -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources -include /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch -c /Bing/CodePark/入门开发/Navigationbar/main.m -o /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.xib
-s345994454.436138
-e345994454.830041
-r1
-xCompileXIB
-x/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.xib
-lSLF07#2@47"CompileXIB Classes/cityDetailViewController.xib345994454#345994454#0(0"0(0#0#78"/Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.xib8621300992#621"    cd /Bing/CodePark/入门开发/Navigationbar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/cityDetailViewController.nib /Bing/CodePark/入门开发/Navigationbar/Classes/cityDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.xib
-s345995100.920279
-e345995101.323383
-r1
-xCompileXIB
-x/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.xib
-lSLF07#2@41"CompileXIB Classes/cityViewController.xib345995100#345995101#0(0"0(0#0#72"/Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.xib8607349440#609"    cd /Bing/CodePark/入门开发/Navigationbar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/cityViewController.nib /Bing/CodePark/入门开发/Navigationbar/Classes/cityViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Bing/CodePark/入门开发/Navigationbar/MainWindow.xib
-s345993632.132439
-e345993632.579261
-r1
-xCompileXIB
-x/Bing/CodePark/入门开发/Navigationbar/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib345993632#345993632#0(0"0(0#0#56"/Bing/CodePark/入门开发/Navigationbar/MainWindow.xib8612467552#585"    cd /Bing/CodePark/入门开发/Navigationbar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/MainWindow.nib /Bing/CodePark/入门开发/Navigationbar/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CGenerateDSYMFile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app.dSYM /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar
-s346000158.536692
-e346000158.557342
-r1
-xGenerateDSYMFile
-x/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app.dSYM
-x/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar
-lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/Navigationbar.app.dSYM build/Debug-iphonesimulator/Navigationbar.app/Navigationbar346000158#346000158#0(0"0(0#0#101"/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar8638853280#410"    cd /Bing/CodePark/入门开发/Navigationbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar -o /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app.dSYM0#
-
-CLd /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar normal i386
-s346000158.509943
-e346000158.536586
-r1
-xLd
-x/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar
-xnormal
-xi386
-lSLF07#2@106"Link /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar346000158#346000158#0(0"0(0#0#0"8643586752#945"    cd /Bing/CodePark/入门开发/Navigationbar    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -filelist /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Objects-normal/i386/Navigationbar.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Navigationbar0#
-
-CProcessInfoPlistFile /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Info.plist Navigationbar-Info.plist
-s345993632.124762
-e345993632.132353
-r1
-xProcessInfoPlistFile
-x/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Info.plist
-xNavigationbar-Info.plist
-lSLF07#2@32"Process Navigationbar-Info.plist345993632#345993632#0(0"0(0#0#66"/Bing/CodePark/入门开发/Navigationbar/Navigationbar-Info.plist8612862656#506"    cd /Bing/CodePark/入门开发/Navigationbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Navigationbar-Info.plist -genpkginfo /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app/Info.plist0#
-
-CProcessPCH /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch.gch Navigationbar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s345993632.659055
-e345993633.601262
-r1
-xProcessPCH
-x/var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch.gch
-xNavigationbar_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@35"Precompile Navigationbar_Prefix.pch345993632#345993633#0(0"0(0#0#66"/Bing/CodePark/入门开发/Navigationbar/Navigationbar_Prefix.pch8613255936#1950"    cd /Bing/CodePark/入门开发/Navigationbar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-generated-files.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-own-target-headers.hmap -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-all-target-headers.hmap -iquote /Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/Navigationbar-project-headers.hmap -F/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator -I/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/include -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources/i386 -I/Bing/CodePark/入门开发/Navigationbar/build/Navigationbar.build/Debug-iphonesimulator/Navigationbar.build/DerivedSources -c /Bing/CodePark/入门开发/Navigationbar/Navigationbar_Prefix.pch -o /var/folders/Xi/Xi1yLXY8GZ0Uy-VGelbS0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Navigationbar_Prefix-bdlbvpzppjfopdcgpnikqyezjnta/Navigationbar_Prefix.pch.gch0#
-
-CTouch /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app
-s346000158.557432
-e346000158.559973
-r1
-xTouch
-x/Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app
-lSLF07#2@93"Touch /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app346000158#346000158#0(0"0(0#0#0"8638596896#290"    cd /Bing/CodePark/入门开发/Navigationbar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Bing/CodePark/入门开发/Navigationbar/build/Debug-iphonesimulator/Navigationbar.app0#
-
